@@ -1,0 +1,11 @@
+source_regime,method,mean_within_task_mae_sd
+different ADME assay,Complete pooling,0.286386161449248
+different ADME assay,F-AdaTrans,0.278647169956491
+different ADME assay,Proposed,0.277491206466244
+different ADME assay,Target-only,0.291868919223226
+different ADME assay,TransLasso,0.290197267452814
+"same assay, disjoint compounds",Complete pooling,0.424211200849318
+"same assay, disjoint compounds",F-AdaTrans,0.431740802044448
+"same assay, disjoint compounds",Proposed,0.32412765410995
+"same assay, disjoint compounds",Target-only,0.309508186352847
+"same assay, disjoint compounds",TransLasso,0.309096136698542

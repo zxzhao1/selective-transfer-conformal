@@ -1,0 +1,3 @@
+comparison,estimate,lower_95,upper_95
+Same-assay: Proposed minus Target-only,-0.0970978282271447,-0.151096269418204,-0.0478762649527107
+Different-assay: Proposed minus F-AdaTrans,-0.01861862890781,-0.0320970852649492,-0.00598920524956325

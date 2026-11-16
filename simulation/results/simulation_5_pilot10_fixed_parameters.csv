@@ -1,0 +1,28 @@
+scenario_number,parameter_role,method,source_index,lambda_initial,lambda0,lambda1,lambda_target,trans_lambda_first,trans_lambda_second
+1,method,Complete pooling,,,,,0.553917033345855,,
+1,method,F-AdaTrans,,0.264413201461746,0.153865842596071,0.167881397753489,,,
+1,method,Ora-F-Ada,,,0.342351499776258,0.373536110001514,,,
+1,method,Target-only,,,,,0.352550935282327,,
+1,method,TransLasso,,,,,,0.635263157894737,0.947894736842105
+1,source_initial,Source-initial,1,0.102482621386914,,,,,
+1,source_initial,Source-initial,2,0.118249178523362,,,,,
+1,source_initial,Source-initial,3,0.0945993428186896,,,,,
+1,source_initial,Source-initial,4,0.110365899955138,,,,,
+2,method,Complete pooling,,,,,0.584690201865069,,
+2,method,F-AdaTrans,,0.246785654697629,0.153865842596071,0.167881397753489,,,
+2,method,Ora-F-Ada,,,0.226952117829205,0.247625061686397,,,
+2,method,Target-only,,,,,0.334923388518211,,
+2,method,TransLasso,,,,,,0.497894736842105,0.815263157894737
+2,source_initial,Source-initial,1,0.0788327856822413,,,,,
+2,source_initial,Source-initial,2,0.0867160642504654,,,,,
+2,source_initial,Source-initial,3,0.141899014228034,,,,,
+2,source_initial,Source-initial,4,0.141899014228034,,,,,
+3,method,Complete pooling,,,,,0.584690201865069,,
+3,method,F-AdaTrans,,0.299668294989978,0.146172550466267,0.159487327865815,,,
+3,method,Ora-F-Ada,,,0.226952117829205,0.247625061686397,,,
+3,method,Target-only,,,,,0.334923388518211,,
+3,method,TransLasso,,,,,,0.74421052631579,0.824736842105263
+3,source_initial,Source-initial,1,0.0945993428186896,,,,,
+3,source_initial,Source-initial,2,0.118249178523362,,,,,
+3,source_initial,Source-initial,3,0.118249178523362,,,,,
+3,source_initial,Source-initial,4,0.102482621386914,,,,,

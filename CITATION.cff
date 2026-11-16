@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Target-Calibrated Selective Transfer Learning for High-Dimensional Prediction Intervals"
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Xun
+    email: zhaoxun@jmu.edu.cn
+    affiliation: School of Science, Jimei University
+repository-code: "https://github.com/zxzhao1/selective-transfer-conformal"
+date-released: 2026-11-16
+version: 0.1.0
+

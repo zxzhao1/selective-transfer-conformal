@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+venv/
+real_data/data/candidate/
+real_data/data/processed/
+simulation/results/checkpoints/
+*.log
+*.aux
+*.out
+*.fdb_latexmk
+*.fls
+
